@@ -8,7 +8,7 @@ Jokhio Downloader is a java library developed especially for Sketchware to add s
 
 you can download 
 
-• jokhio-downloader.zip from above files
+• jokhio-downloader.zip from here [click to download](https://github.com/bakarjokhio/jokhio-downloader-lib/raw/main/jokhio-downloader.zip)
 
 • or from my app
 
