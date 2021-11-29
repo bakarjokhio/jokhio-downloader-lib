@@ -114,5 +114,15 @@ AndroidStudio users know how to do it sketchware users just copy and paste below
 
 for downloading files while using old storage access you can use 
 
+`startDownload(String link, String filename, String path); ` 
+for example I'm using
+
+```
+downloadService.startDownload(link_edit.getText().toString(), filename, path);
+```
+![Screenshot_20211129-194852](https://user-images.githubusercontent.com/61370010/143910514-b2bf608e-3223-4f8c-813b-95eab630ace1.png)
+
+in above example I'm using values stored in string for *path and filename and as for link I'm getting it from edit text.
+
 
 
