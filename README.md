@@ -91,10 +91,26 @@ Add required Permissions such as internet and storage
 
 ### Declare Service in manifest
 
-You also have to declare that service in App Manifest
+You also have to declare that service in App Manifest. 
+AndroidStudio users know how to do it sketchware users just copy and paste below code to app components asd.
+
 
 ```
 <service
 			android:name="jokhio.downloader.DownloadService"
 			android:enabled="true" />
 ```
+
+![Screenshot_20211129-193712~2](https://user-images.githubusercontent.com/61370010/143888373-9520cc2c-42e9-4e9a-9945-b6abbba34377.png)
+
+
+## 2. Downloading 
+
+ before downloading you should also check if doenloadService is not null using this code ` downloadService != null `
+
+### Legacy download 
+
+
+
+
+
