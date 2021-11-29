@@ -75,3 +75,26 @@ ServiceConnection conn = new ServiceConnection() {
 
 ```
 ![Screenshot_20211128-232321](https://user-images.githubusercontent.com/61370010/143781082-b2d88363-f564-490c-b87d-7b186a3a117c.png)
+
+### Add Permissions
+
+Add required Permissions such as internet and storage
+
+```
+        <uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+```
+
+![PicsArt_11-29-07 51 02](https://user-images.githubusercontent.com/61370010/143886266-d5489bc5-831a-43cd-95a4-0f5860d246a4.jpg)
+
+### Declare Service in manifest
+
+You also have to declare that service in App Manifest
+
+```
+<service
+			android:name="jokhio.downloader.DownloadService"
+			android:enabled="true" />
+```
