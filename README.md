@@ -134,4 +134,4 @@ If you are using content Uri instead of old fashion file path use `startDownload
 
 Details about how to get progress and other information are coming soon.
 
-####Your suggestions are welcomed.
+#### Your suggestions are welcomed.
