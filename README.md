@@ -126,3 +126,11 @@ in above example I'm using values stored in **string** for **path** and **filena
 
 
 
+### Download with new Storage Framework
+
+If you are using content Uri instead of old fashion file path use `startDownload1(String link, String filename, Uri fileUri) ` more details and blocks about it coming soon.
+
+## what's next?
+
+Details about how to get progress and other information are coming soon.
+Your suggestions are welcomed.
