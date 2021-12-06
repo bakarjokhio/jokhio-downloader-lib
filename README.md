@@ -10,12 +10,13 @@ you can download
 
 • jokhio-downloader.zip from here [click to download](https://github.com/bakarjokhio/jokhio-downloader-lib/raw/main/jokhio-downloader.zip)
 
-• or from my app
+• or from my app [JokhioSketchProjects](https://www.mediafire.com/file/go6asw1yzrq5p6z/Jokhio_Sketch_Project_com.jokhio.projectstore.apk/file)
 
-• or from our telegram
+• or from our [telegram](https://t.me/jokhioapps/248)
 
 if you are using android studio or something like that i hope you know how to add ***jar*** libraries to your project, however of you're using sketchware you can watch the video to learn how to add library.
 
+https://youtu.be/YUjx_RK9fVg
 ### import required class
 
 After adding library to your project in order to use it you have to add this important statement 
